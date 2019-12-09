@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial 7</string>
+    <string name="empty_list_text">Empty list text datastudents</string>
+    <string name="add_record">Add record menu</string>
+    <string name="enter_nama">enter nama addstudents</string>
+    <string name="enter_kelas">enter kelas addstudents</string>
+    <string name="btn_update">btn update modifydata</string>
+    <string name="btn_delete">btn delete modifydata</string>
+</resources>
